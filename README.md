@@ -79,12 +79,12 @@ Use the menu-driven interface to manage car rentals and transactions.
 Prerequisites
 Python 3.6 or later
 Install Python from python.org.
-Future Enhancements
-Implement a graphical user interface (GUI).
-Add AI-powered features such as dynamic pricing and customer analytics.
-Migrate to a database system for scalable and secure data storage.
+Future Enhancements:
+  Implement a graphical user interface (GUI).
+  Add AI-powered features such as dynamic pricing and customer analytics.
+  Migrate to a database system for scalable and secure data storage.
 Contributing
-Contributions are welcome! Fork the repository and create a pull request with your improvements.
+  Contributions are welcome! Fork the repository and create a pull request with your improvements.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
