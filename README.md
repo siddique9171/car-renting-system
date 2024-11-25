@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Car Rental Management System
 
 This repository contains a **Python-based Car Rental Management System** that helps manage vehicle rentals, returns, and transaction records for a car rental business. It offers a user-friendly menu for performing essential tasks such as listing available cars, renting cars, and calculating earnings.
@@ -37,8 +34,6 @@ This repository contains a **Python-based Car Rental Management System** that he
   Example:  
 ABC123,Toyota Corolla,40 XYZ789,Honda Civic,50
 
-markdown
-Copy code
 
 - `customers.txt`:  
 Stores customer details:  
@@ -46,8 +41,6 @@ Stores customer details:
 Example:  
 01/01/1990,John,Doe,john.doe@example.com
 
-markdown
-Copy code
 
 - `rentedVehicles.txt`:  
 Tracks ongoing rentals:  
@@ -55,8 +48,6 @@ Tracks ongoing rentals:
 Example:  
 ABC123,01/01/1990,25/11/2024 10:30
 
-markdown
-Copy code
 
 - `transActions.txt`:  
 Records completed rental transactions:  
@@ -64,8 +55,7 @@ Records completed rental transactions:
 Example:  
 ABC123,01/01/1990,25/11/2024 10:30,26/11/2024 12:00,2,80.00
 
-yaml
-Copy code
+
 
 ---
 
@@ -81,8 +71,7 @@ Ensure vehicles.txt, customers.txt, rentedVehicles.txt, and transActions.txt are
 Run the Script
 Execute the Python program:
 
-bash
-Copy code
+
 python car_rental_management.py
 Follow Menu Options
 Use the menu-driven interface to manage car rentals and transactions.
@@ -101,7 +90,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 vbnet
-Copy code
+
 
 Save this text as `README.md` and include it in your project folder before uploading to GitHub. Let me know if you need additional changes!
 
