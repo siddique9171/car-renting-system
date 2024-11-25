@@ -86,15 +86,5 @@ Future Enhancements:
 Contributing
   Contributions are welcome! Fork the repository and create a pull request with your improvements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-vbnet
-
-
-Save this text as `README.md` and include it in your project folder before uploading to GitHub. Let me know if you need additional changes!
-
-
-
 
 
